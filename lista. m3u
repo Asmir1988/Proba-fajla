@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Zadruga" group-title="Balkan",Zadruga Uzivo
 https://www.tvbalkanuzivo.com/zadruga/
+
+#EXTINF:zadruga
+https://list.iptvcat.com/my_list/s/0d372ac0faba004554c59a4c8b669d06.m3u8
